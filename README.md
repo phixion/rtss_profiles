@@ -1,4 +1,4 @@
-put Files into "RivaTuner Statistics Server\Profiles" Folder and relaunch
+put Files (Global, Config and gmae.exe.cfg) into "RivaTuner Statistics Server\Profiles" Folder and relaunch
 
 might have to install "Small Fonts"
 
